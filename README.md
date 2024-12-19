@@ -1,3 +1,3 @@
 # Blogs
 
-Above are the Machine Learning articles written for One Fourth Labs, PadhAI
+Above are the Machine Learning articles written by me
